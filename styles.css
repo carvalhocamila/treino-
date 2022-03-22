@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 223, 247);
+    color: rgb(56, 1, 33);
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    max-width: 1200px;
+    margin: 55 auto;
+    padding: 20px 
+}
+
